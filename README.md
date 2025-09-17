@@ -1,8 +1,6 @@
 # Mental Care (Hub)
 
 이 레포는 프로젝트 허브입니다.  
-- 백엔드: https://github.com/<YOUR_ACCOUNT_OR_ORG>/mental-care-backend
-- 문서: https://github.com/<YOUR_ACCOUNT_OR_ORG>/mental-care-backend
 
 ## Roadmap
 - v0: 로그인 → PHQ-9 → GPT 상담 (MVP)
@@ -11,5 +9,5 @@
 - v3: AI 비서(일정/메모/리마인더)
 
 ## Repos
-- backend: (추가 예정)
-- docs: (추가 예정)
+- backend: https://github.com/hiw6352/mental-care-backend
+- docs: https://github.com/hiw6352/mental-care-docs
