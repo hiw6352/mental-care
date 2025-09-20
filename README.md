@@ -10,4 +10,5 @@
 
 ## Repos
 - backend: https://github.com/hiw6352/mental-care-backend
+- frontend: (추후 추가 예정)
 - docs: https://github.com/hiw6352/mental-care-docs
